@@ -1,0 +1,6 @@
+{
+  "name": "SkillMatch",
+  "description": "Skill-to-job matching platform connecting students, companies, and administrators for college recruitment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
